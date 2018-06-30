@@ -1,4 +1,4 @@
-FROM zabbix/zabbix-web-nginx-mysql:ubuntu-3.2.6
+FROM zabbix/zabbix-web-nginx-mysql:ubuntu-3.4.11
 
 MAINTAINER Shoma Nishitateno <shoma416@gmail.com>
 
